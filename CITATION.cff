@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+type: software
+title: "Ensuring Both Positivity and Stability Using Sector-Bounded Nonlinearity for Systems with Neural Network Controllers (code)"
+abstract: "Code for the IEEE Control Systems Letters 2024 paper: global sector bounds for bias-free feedforward neural networks and a Metzler and Hurwitz test for global exponential stability of the closed loop, with an IQC run-time baseline."
+authors:
+  - family-names: "Montazeri Hedesh"
+    given-names: "Hamidreza"
+    orcid: "https://orcid.org/0009-0007-0041-830X"
+    affiliation: "Northeastern University"
+repository-code: "https://github.com/hmon91/Global-stability-of-NN-controlled-systems"
+url: "https://hmon91.github.io/publication/2024-01-01-lcss-positivity"
+license: MIT
+keywords:
+  - "neural network controllers"
+  - "global stability"
+  - "sector bounds"
+  - "absolute stability"
+  - "Lur'e systems"
+  - "positive systems"
+preferred-citation:
+  type: article
+  title: "Ensuring Both Positivity and Stability Using Sector-Bounded Nonlinearity for Systems With Neural Network Controllers"
+  authors:
+    - family-names: "Montazeri Hedesh"
+      given-names: "Hamidreza"
+      orcid: "https://orcid.org/0009-0007-0041-830X"
+    - family-names: "Siami"
+      given-names: "Milad"
+      orcid: "https://orcid.org/0000-0001-7253-4464"
+  journal: "IEEE Control Systems Letters"
+  volume: 8
+  start: 1685
+  end: 1690
+  year: 2024
+  doi: "10.1109/LCSYS.2024.3416237"
+  identifiers:
+    - type: url
+      value: "https://arxiv.org/abs/2406.12744"
+      description: "Free preprint on arXiv"
